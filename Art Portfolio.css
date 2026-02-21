@@ -152,6 +152,10 @@ content{
   gap: 16px;
 }
 
+#hidden{
+  display: hidden;
+}
+
 /*Iframes*/
 
 #impstuff{  
@@ -489,3 +493,4 @@ textarea {
     left: 27%;
   }
 }
+
